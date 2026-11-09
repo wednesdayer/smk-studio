@@ -1,0 +1,929 @@
+{
+  "version": 1,
+  "name": "Demo",
+  "bpm": 96,
+  "loopBars": 4,
+  "quantize": "1/16",
+  "tracks": [
+    {
+      "id": "t1",
+      "name": "Bateria",
+      "kind": "drums",
+      "color": "#ff8a3d",
+      "volume": 0.8,
+      "muted": false,
+      "solo": false,
+      "params": [
+        0.5,
+        0.5,
+        0.85,
+        0.15,
+        0.85,
+        0.8,
+        0.65,
+        0.15
+      ],
+      "takes": [
+        {
+          "id": "t1-take-1",
+          "events": [
+            {
+              "tick": 0,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 0,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 96,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 192,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 192,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 288,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 288,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 384,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 480,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 480,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 576,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 576,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 672,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 672,
+              "note": 3,
+              "velocity": 0.6,
+              "duration": 48
+            },
+            {
+              "tick": 768,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 768,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 864,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 960,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 960,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 1056,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 1056,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 1152,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 1248,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 1248,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 1344,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 1344,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 1440,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 1440,
+              "note": 3,
+              "velocity": 0.6,
+              "duration": 48
+            },
+            {
+              "tick": 1536,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 1536,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 1632,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 1728,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 1728,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 1824,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 1824,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 1920,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 2016,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 2016,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 2112,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 2112,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 2208,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 2208,
+              "note": 3,
+              "velocity": 0.6,
+              "duration": 48
+            },
+            {
+              "tick": 2304,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 2304,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 2400,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 2496,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 2496,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 2592,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 2592,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 2688,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 2784,
+              "note": 0,
+              "velocity": 0.95,
+              "duration": 48
+            },
+            {
+              "tick": 2784,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 2880,
+              "note": 1,
+              "velocity": 0.9,
+              "duration": 48
+            },
+            {
+              "tick": 2880,
+              "note": 2,
+              "velocity": 0.75,
+              "duration": 48
+            },
+            {
+              "tick": 2976,
+              "note": 2,
+              "velocity": 0.5,
+              "duration": 48
+            },
+            {
+              "tick": 2976,
+              "note": 3,
+              "velocity": 0.6,
+              "duration": 48
+            },
+            {
+              "tick": 2976,
+              "note": 5,
+              "velocity": 0.8,
+              "duration": 48
+            },
+            {
+              "tick": 3024,
+              "note": 6,
+              "velocity": 0.8,
+              "duration": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "name": "Baixo",
+      "kind": "synth",
+      "color": "#4cc9f0",
+      "volume": 0.8,
+      "muted": false,
+      "solo": false,
+      "params": [
+        0.8,
+        0.35,
+        0.35,
+        0,
+        0.25,
+        0.5,
+        0.1,
+        0.05
+      ],
+      "takes": [
+        {
+          "id": "t2-take-1",
+          "events": [
+            {
+              "tick": 0,
+              "note": 45,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 144,
+              "note": 45,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 288,
+              "note": 45,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 384,
+              "note": 57,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 528,
+              "note": 45,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 672,
+              "note": 57,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 768,
+              "note": 41,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 912,
+              "note": 41,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1056,
+              "note": 41,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1152,
+              "note": 53,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1296,
+              "note": 41,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1440,
+              "note": 53,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1536,
+              "note": 48,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1680,
+              "note": 48,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1824,
+              "note": 48,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 1920,
+              "note": 60,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2064,
+              "note": 48,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2208,
+              "note": 60,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2304,
+              "note": 43,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2448,
+              "note": 43,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2592,
+              "note": 43,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2688,
+              "note": 55,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2832,
+              "note": 43,
+              "velocity": 0.85,
+              "duration": 90
+            },
+            {
+              "tick": 2976,
+              "note": 55,
+              "velocity": 0.85,
+              "duration": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "name": "Pad",
+      "kind": "synth",
+      "color": "#b388ff",
+      "volume": 0.6,
+      "muted": false,
+      "solo": false,
+      "params": [
+        0.3,
+        0.55,
+        0.1,
+        0.55,
+        0.5,
+        0.8,
+        0.6,
+        0.55
+      ],
+      "takes": [
+        {
+          "id": "t3-take-1",
+          "events": [
+            {
+              "tick": 0,
+              "note": 57,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 0,
+              "note": 60,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 0,
+              "note": 64,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 768,
+              "note": 53,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 768,
+              "note": 57,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 768,
+              "note": 60,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 1536,
+              "note": 55,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 1536,
+              "note": 60,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 1536,
+              "note": 64,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 2304,
+              "note": 55,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 2304,
+              "note": 59,
+              "velocity": 0.6,
+              "duration": 756
+            },
+            {
+              "tick": 2304,
+              "note": 62,
+              "velocity": 0.6,
+              "duration": 756
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "name": "Lead",
+      "kind": "synth",
+      "color": "#7bd88f",
+      "volume": 0.7,
+      "muted": false,
+      "solo": false,
+      "params": [
+        0.9,
+        0.65,
+        0.25,
+        0.02,
+        0.3,
+        0.4,
+        0.25,
+        0.3
+      ],
+      "takes": [
+        {
+          "id": "t4-take-1",
+          "events": [
+            {
+              "tick": 0,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 96,
+              "note": 72,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 192,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 288,
+              "note": 76,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 384,
+              "note": 74,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 480,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 576,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 672,
+              "note": 79,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 768,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 816,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 864,
+              "note": 72,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 912,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 960,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 1008,
+              "note": 76,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1056,
+              "note": 76,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1152,
+              "note": 74,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 1200,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1248,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1344,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 1392,
+              "note": 79,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1440,
+              "note": 79,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1536,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 1632,
+              "note": 72,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1728,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 1824,
+              "note": 76,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 1920,
+              "note": 74,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 2016,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2112,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 2208,
+              "note": 79,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2304,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 2352,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2400,
+              "note": 72,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2448,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2496,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 2544,
+              "note": 76,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2592,
+              "note": 76,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2688,
+              "note": 74,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 2736,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2784,
+              "note": 74,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2880,
+              "note": 76,
+              "velocity": 0.8999999999999999,
+              "duration": 44
+            },
+            {
+              "tick": 2928,
+              "note": 79,
+              "velocity": 0.7,
+              "duration": 44
+            },
+            {
+              "tick": 2976,
+              "note": 79,
+              "velocity": 0.7,
+              "duration": 44
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
